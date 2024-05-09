@@ -132,6 +132,7 @@ footer {
 .attribution {
   font-size: 110%;
   color: var(--dark-gray);
+  margin-top: 2rem;
 }
 .attribution a {
   color: var(--primary-title);
@@ -141,7 +142,7 @@ footer {
 
 .copyright {
   font-size: 100%;
-  margin-top: 0.5rem;
+  margin-top: auto;
 }
 
 .hide {
