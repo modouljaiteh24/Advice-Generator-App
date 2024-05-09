@@ -79,7 +79,7 @@ function App() {
           <p>
             Coded by{" "}
             <a
-              href="https://www.linkedin.com/in/lamin-jaiteh-8103a923b"
+              href="https://www.linkedin.com/in/lamin-jaiteh-8103"
               title="Linkedin"
               target="_blank"
             >
