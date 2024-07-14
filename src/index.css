@@ -39,6 +39,12 @@ main {
   flex: 1;
 }
 
+.theme-switcher {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
 h1 {
   color: var(--primary-title);
   font-size: 1.75rem;

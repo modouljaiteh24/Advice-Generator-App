@@ -49,8 +49,9 @@ function App() {
 
   return (
     <>
+      <div className="theme-switcher">theme</div>
+
       <main>
-        <div className="theme-switcher">theme</div>
         <h1>Advice Generator APP</h1>
         <div className="card">
           <h3>
