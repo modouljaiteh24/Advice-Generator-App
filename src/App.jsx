@@ -50,7 +50,6 @@ function App() {
   return (
     <>
       <div className="theme-switcher">theme</div>
-
       <main>
         <h1>Advice Generator APP</h1>
         <div className="card">
