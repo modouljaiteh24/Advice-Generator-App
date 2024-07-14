@@ -43,23 +43,14 @@ function App() {
   //   fetchAdvice();
   // }, []);
 
-  const [theme, setTheme] = useState("dark");
-
   if (isPageLoading) {
     return <div>Loading...</div>;
   }
 
   return (
     <>
-      <ThemeProvider
-        theme={theme === "dark" ? darkTheme : lightTheme}
-      ></ThemeProvider>
       <main>
-        <div className="theme-switcher">
-          <button onClick={() => setTheme(theme === "dark" ? "light" : "dark")}>
-            {theme === "dark" ? <SunIcon /> : <MoonIcon />}
-          </button>
-        </div>
+        <div className="theme-switcher">theme</div>
         <h1>Advice Generator APP</h1>
         <div className="card">
           <h3>
