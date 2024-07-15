@@ -24,6 +24,8 @@ body {
 
 body {
   background-color: var(--dark-blu);
+  background-color: aliceblue;
+  color: black;
   display: flex;
   font-family: Manrope, sans-serif;
   flex-direction: column;
