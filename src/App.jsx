@@ -57,9 +57,9 @@ function App() {
             Advice #<span>{adviceId}</span>
           </h3>
 
-          <div className="advice loading">
+          {/* <div className="advice loading">
             {isLoading ? <Loader /> : <blockquote>{advice}</blockquote>}
-          </div>
+          </div> */}
 
           <div className="pattern-divider-wrapper">
             <img
@@ -69,9 +69,9 @@ function App() {
             />
           </div>
 
-          <button id="advice-generator-button" onClick={fetchAdvice}>
+          {/* <button id="advice-generator-button" onClick={fetchAdvice}>
             <img src={DiceIcon} alt="Button Icon" />
-          </button>
+          </button> */}
         </div>
       </main>
 
