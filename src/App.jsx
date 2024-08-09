@@ -73,7 +73,10 @@ function App() {
             <img src={DiceIcon} alt="Button Icon" />
           </button> */}
         </div>
-        <div className="under-development">UnderDevelopment</div>
+        <div className="under-development">
+          <h1>UnderDevelopment</h1>
+          <p>Please reach out the owner if you have any feedback.</p>
+        </div>
       </main>
 
       <footer>
