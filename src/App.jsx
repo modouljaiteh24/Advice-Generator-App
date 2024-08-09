@@ -73,7 +73,7 @@ function App() {
             <img src={DiceIcon} alt="Button Icon" />
           </button> */}
         </div>
-        <div>UnderDevelopment</div>
+        <div className="under-development">UnderDevelopment</div>
       </main>
 
       <footer>
