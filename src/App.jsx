@@ -76,7 +76,7 @@ function App() {
         <div className="under-development">
           <h1>UnderDevelopment</h1>
           <p className="under-development-text">
-            Please reach out the owner if you have any feedback.
+            Please reach out the owner if you have any feedback👇.
           </p>
         </div>
       </main>
