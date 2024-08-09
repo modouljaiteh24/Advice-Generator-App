@@ -140,6 +140,10 @@ h1 {
   text-transform: uppercase;
 }
 
+.under-development-text {
+  font-size: 1.25rem;
+}
+
 footer {
   color: var(--primary-text);
   padding-top: 3rem;
